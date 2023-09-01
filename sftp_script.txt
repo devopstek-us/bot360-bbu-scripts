@@ -1,0 +1,4 @@
+option batch on
+option confirm off
+open sftp://rbs:rbs@169.254.2.1/
+cd /
